@@ -1,0 +1,14 @@
+C:\Users\Olorunshola.j\Desktop\dot net\Csharp\TicTacToe\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.exe
+C:\Users\Olorunshola.j\Desktop\dot net\Csharp\TicTacToe\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.deps.json
+C:\Users\Olorunshola.j\Desktop\dot net\Csharp\TicTacToe\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.runtimeconfig.json
+C:\Users\Olorunshola.j\Desktop\dot net\Csharp\TicTacToe\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.runtimeconfig.dev.json
+C:\Users\Olorunshola.j\Desktop\dot net\Csharp\TicTacToe\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.dll
+C:\Users\Olorunshola.j\Desktop\dot net\Csharp\TicTacToe\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.pdb
+C:\Users\Olorunshola.j\Desktop\dot net\Csharp\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.csproj.AssemblyReference.cache
+C:\Users\Olorunshola.j\Desktop\dot net\Csharp\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Olorunshola.j\Desktop\dot net\Csharp\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.AssemblyInfoInputs.cache
+C:\Users\Olorunshola.j\Desktop\dot net\Csharp\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.AssemblyInfo.cs
+C:\Users\Olorunshola.j\Desktop\dot net\Csharp\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\Olorunshola.j\Desktop\dot net\Csharp\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.dll
+C:\Users\Olorunshola.j\Desktop\dot net\Csharp\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.pdb
+C:\Users\Olorunshola.j\Desktop\dot net\Csharp\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.genruntimeconfig.cache
